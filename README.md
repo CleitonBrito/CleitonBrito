@@ -1,6 +1,6 @@
 #
 
-<div style="padding: 20px; background: linear-gradient(-225deg, #c2c2, #03043d)" height="100">
+<div style="padding: 20px;" height="100">
 
 <h1>Olá! Me chamo Cleiton Brito!</h1>
 
