@@ -14,7 +14,7 @@ Desde agosto de 2022 atuo como professor de Informática Básica no Núcleo de I
 </p>
 
 <p align="justify">
-Possuo experiência em desenvolvimento backend utilizando framework Laravel, e frontend com Bootstrap, Tailwincss, e CSS 3. No momento estou concentrando meus estudos em desenvolver API Rest, SOLID patthern, framework express e react.
+Possuo experiência em desenvolvimento backend utilizando framework Laravel, e frontend com Bootstrap, Tailwincss, e CSS 3. No momento estou concentrando meus estudos em em desenvolver API Rest utilizando design de desenvolvimento SOLID. Além disso, estou estudando framework express e bibiotecas js, como o React.
 </p>
 
 <p align="justify">
