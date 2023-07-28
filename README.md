@@ -6,28 +6,13 @@
 
 <img style="border-radius: 50%; margin: 10px 30px;" align="left" alt="cleiton-brito-image" height="150" src="https://avatars.githubusercontent.com/u/29292376?v=4">
 <p align="justify"> 
-Sou formado em Licenciatura em Ciências da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia Baiano (2022). Atualmente estou cursando pós-graduação em Projetos de Aplicativos Móveis Multiplataforma.
-</p>
-
-<p align="justify"> 
-Desde agosto de 2022 atuo como professor de Informática Básica no Núcleo de Informática Municipal na cidade de Filadélfia-BA.
+Especialista em Projetos de Aplicativos Móveis Multiplataforma pela Descomplica, e graduado em Licenciatura em Ciências da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia Baiano (2022). Atualmente estou cursando pós-graduação em Big Data e Inteligência Competitiva.
 </p>
 
 <p align="justify">
 Possuo experiência em desenvolvimento backend utilizando framework Laravel, e frontend com Bootstrap, Tailwincss, e CSS 3. No momento estou concentrando meus estudos em em desenvolver API Rest utilizando design de desenvolvimento SOLID. Além disso, estou estudando framework express e bibiotecas js, como o React.
 </p>
 
-<p align="justify">
-Já desenvolvi alguns projetos privados como desenvolvedor <i>freelancer</i>. São eles:
-<ol>
-<li>Brasileirão da Sorte</li>
-<li>Rifas Nordeste</li>
-</ol>
-</p>
-
-<p align="justify"> 
-
-</p>
 <br>
 
 <div align="center">
