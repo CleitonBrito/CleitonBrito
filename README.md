@@ -63,8 +63,6 @@ Já desenvolvi alguns projetos privados como desenvolvedor <i>freelancer</i>. S�
 <br>
 <br>
 
-![Profile views](https://gpvc.arturio.dev/CleitonBrito)
-
 Obrigado ❤️!
 </div>
 
