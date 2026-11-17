@@ -6,7 +6,7 @@
 
 <img style="border-radius: 50%; margin: 10px 30px;" align="left" alt="cleiton-brito-image" height="150" src="https://avatars.githubusercontent.com/u/29292376?v=4">
 <p align="justify"> 
-Especialista em Projetos de Aplicativos Móveis Multiplataforma pela Descomplica, e graduado em Licenciatura em Ciências da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia Baiano (2022). Atualmente estou cursando pós-graduação em Big Data e Inteligência Competitiva.
+Especialista em Projetos de Aplicativos Móveis Multiplataforma pela Descomplica e graduado em Licenciatura em Ciências da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia Baiano (2022).
 </p>
 
 <p align="justify">
@@ -14,12 +14,6 @@ Possuo experiência em desenvolvimento backend utilizando framework Laravel, e f
 </p>
 
 <br>
-
-<div align="center">
-  <a href="https://github.com/cleitonbrito">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleitonbrito&show_icons=true&theme=transparent&bg_color=00000000&title_color=ebebeb&text_color=0d95ba&icon_color=fff&ring_color=abc40a&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
 <br>
 <br>
 
